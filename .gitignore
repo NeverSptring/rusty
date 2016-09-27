@@ -1,0 +1,8 @@
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.lib
+build
+*.pyc
